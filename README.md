@@ -36,5 +36,21 @@ This project successfully demonstrated the process of training, evaluating, and 
 ```bash
 git clone https://github.com/your-username/Automated-Research-Paper-Publishability-Classification-and-Justification.git
 cd Automated-Research-Paper-Publishability-Classification-and-Justification
+```markdown
+2. **Installing requirements:**
 
-
+```bash
+pip install -r requirements.txt
+This installs all the necessary libraries for the project.
+3. **Open the notebook in Google Colab:**
+-> Upload the notebook to Google Colab:
+-Go to https://colab.research.google.com/
+-File -> Upload notebook
+-Select cleaned notebook.
+4. Running the pipeline:
+-The notebook guides you through:
+-Extracting text from PDF files
+-Cleaning and preparing the data
+-Generating semantic embeddings with sentence transformers
+-Training Logistic Regression for publishability prediction
+-Providing publishability predictions alongside justifications for each paper
