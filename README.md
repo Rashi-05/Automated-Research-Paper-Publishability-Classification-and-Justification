@@ -1,6 +1,6 @@
 # Automated-Research-Paper-Publishability-Classification-and-Justification
 ## Project Overview :-
-This project aims to automate the process of classifying research papers as Publishable or Non-Publishable using semantic embeddings and machine learning.
+This project aims to **automate the process of classifying research papers as Publishable or Non-Publishable** using semantic embeddings and machine learning.
 ## Objective :-
 Develop a pipeline to automatically predict publishability of papers.
 Provide clear and interpretable justifications for each decision.
