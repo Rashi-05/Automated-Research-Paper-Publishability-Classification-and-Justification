@@ -38,6 +38,13 @@ git clone https://github.com/your-username/Automated-Research-Paper-Publishabili
 cd Automated-Research-Paper-Publishability-Classification-and-Justification
 
 ```
+2. **Installing requirements:**
+
+```bash
+pip install -r requirements.txt
+```
+This installs all the necessary libraries for the project.
+
 
 3. **Open the notebook in Google Colab:**
 -> Upload the notebook to Google Colab:
